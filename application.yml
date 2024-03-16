@@ -1,6 +1,6 @@
 spring:
    application:  
-        name: MICRO
+        name: SHREE RAM
 eureka:
     instance: 
         prefer-ip-address: true
